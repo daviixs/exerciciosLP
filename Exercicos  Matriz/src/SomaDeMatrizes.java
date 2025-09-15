@@ -36,7 +36,7 @@ public class SomaDeMatrizes {
             somaLinha3 += mat[2][j];
         }
 
-        // Imprime os resultadoss
+        // Imprime os resultadosss
         System.out.println("\nResultado das somas:");
         System.out.println("Soma da linha 1 = " + somaLinha1);
         System.out.println("Soma da linha 2 = " + somaLinha2);
